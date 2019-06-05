@@ -14,5 +14,6 @@ This is a personal blog sharing the author's thoughts and efforts to try to comb
 
 2D Lattice Model:
 
-[Link]: https://github.com/WeianJiang/2D-Lattice-Model
+[Link]: https://github.com/WeianJiang/2D-Lattice-Model	"2D Lattice Model"
 
+https://github.com/WeianJiang/2D-Lattice-Model 
