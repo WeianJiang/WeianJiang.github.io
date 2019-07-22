@@ -16,3 +16,11 @@ This is a personal blog sharing the author's thoughts and efforts to try to comb
 
 [https://github.com/WeianJiang/2D-Lattice-Model](https://github.com/WeianJiang/2D-Lattice-Model)
 
+
+
+# 2D Random Particle Model
+
+## Codes
+
+[https://github.com/WeianJiang/2D-RandomParticle-Model](https://github.com/WeianJiang/2D-RandomParticle-Model)
+
