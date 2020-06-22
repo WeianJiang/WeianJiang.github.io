@@ -24,7 +24,7 @@
 							<h1><b>Meso-Scopic Analysis of Concrete</b></h1>
 							<p class="major"><b> 
 								Establishing meso-scopic model in Abaqus has always been a tough work.
-								This blog would be a brief introduction about blogger's work on an easy way to establish meso-scopic model of concrete. 
+								This blog would be a brief introduction about my work on an easy way to establish meso-scopic model of concrete. 
 							</b></p>
 							<p class="major"><b> 
 								Several Abaqus-based-Python-combined analysis projects are proposed. 
@@ -47,8 +47,9 @@
 							<h2><b>2D Random Particle Model</b></h2>
 							<p>
 								<b>
-									Intuitive, comparably time-saving, most used in blogger's research and still under developing. This program can 
-									generate arbitrary rectangular 2-d random particle section with/without reinforcement.
+									Intuitive, comparably time-saving, most used in my research and still under developing. This program can 
+									generate arbitrary rectangular 2-d random particle section with/without reinforcement in Abaqus. This program is 
+									ready for conducting parametric analysis in Abaqus.
 								</b>
 							</p>
 							<p>
@@ -72,7 +73,8 @@
 							<p>
 								<b>
 									Usually there are two types of partition method, topological partition and geometric partition, currently only topological 
-									partition method is provided.
+									partition method is provided, each mesh element in the model would be assigned with different material properties to simulate
+									different components of concrete.
 								</b>								
 							</p>
 							<ul class="actions stacked">
@@ -90,7 +92,9 @@
 							<h2><b>2D Lattice Model</b></h2>
 							<p>
 							<b>
-								A former developed project and is not maintained any more, but also provided here.
+								A former developed project and is not maintained any more, but also provided here. Beam element is used to simulate concrete， which is rather
+								complex and time-consuming when generating lattice. A better simulation method is already in my mind but I have no time to realize it, 
+								that is, generating 2-d lattice by generating 2-d partition on a planar surface.
 							</b>	
 							</p>
 							<ul class="actions stacked">
